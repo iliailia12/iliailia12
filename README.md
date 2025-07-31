@@ -3,7 +3,7 @@
 
 <img src="https://raw.githubusercontent.com/adamgiebl/adamgiebl/master/pixel.gif" width="1100">
 
-<p align="left"> <img src="https://www.facebook.com/ilia.kviciani.2025"  /> </p>
+ 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterjaneza" alt="masterjaneza" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development💻**
 
-- 📫 How to reach me **datojanezashvili8@gmail.com**
+- 📫 How to reach me **iliakviciani392@gmail.com**
 
 - ⚡ Fun fact **When I start, I cannot stop.**
 
@@ -56,13 +56,12 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masterjaneza&layout=donut)](https://github.com/masterjaneza/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=masterjaneza&show_icons=true&theme=cobalt)
+ 
 
 <br />
 
 
+![snake_gif](https://github.com/MeghnaS21/MeghnaS21/blob/output/github-snake-dark.svg)
 
 
        __
