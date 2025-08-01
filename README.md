@@ -4,8 +4,11 @@
 <img src="https://raw.githubusercontent.com/adamgiebl/adamgiebl/master/pixel.gif" width="1100">
 
  
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masterjaneza" alt="masterjaneza" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Not Learning, Mastering.**
 
