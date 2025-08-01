@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilia Kviciani</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Nice+to+meet+you+MY+Friend+" alt="Typing SVG" /></a>
 <h3 align="center">I'm a dedicated and passionate programmer with a wealth of experience across various technologies. My work ethic is driven by a genuine love for coding and a relentless pursuit of excellence. As a workaholic by nature, I thrive in challenging environments, always pushing the boundaries of what's possible. My commitment to continuous learning ensures that I stay ahead of the curve, delivering innovative solutions that make a difference. Whether it's tackling complex problems or refining the smallest details, I bring energy, focus, and a deep sense of pride to everything I do.</h3>
 
 <img src="https://raw.githubusercontent.com/adamgiebl/adamgiebl/master/pixel.gif" width="1100">
